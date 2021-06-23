@@ -15,7 +15,7 @@ const FALL_DEATH = 400
 
 loadRoot('https://i.imgur.com/')
 loadSprite('coin', 'wbKxhcd.png')
-loadSprite('evil-shroom','KP03fR9.png')
+loadSprite('evil-shroom','LmseqUG.png')
 loadSprite('brick','pogC9x5.png')
 loadSprite('block','M6rwarW.png')
 loadSprite('mario','Wb1qfhK.png')
@@ -44,9 +44,9 @@ scene("game", ({level, score}) => {
             '                  ===%==              ',
             '     %   =*=%=                        ',
             '                                      ',
-            '                            -+        ',
-            '                 ^   ^   ^   ()        ',
-            '==============================   =====',
+            '                              -+        ',
+            '                 ^   ^   ^    ()        ',
+            '==============================  =====',
           ],
           [
             '£                                       £',
